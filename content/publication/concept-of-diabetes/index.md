@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -75,7 +75,12 @@ participation in this survey will help our research. This survey is expected to 
 You are requested to fill the given questions based on your won knowledge. All the information
 collected for this survey is highly confidential and will be used for research purpose only.
 
-## Survey Design 
+## Aims
+- To assess the knowledge and attitude of diabetes among public university students. 
+
+
+
+## Survey Design
 Dr. Md. Kamrujjaman <br>
 Associate Professor <br>
 Department of Mathematics <br>
