@@ -1,0 +1,2680 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Jubayer Hossain">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Health Data Science Enthusiast">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#328cc1">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CRoboto%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.min.ec3cf69433a1606d79dafbc73024be7f.css">
+
+  
+
+
+
+
+  
+
+  
+
+
+  
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Jubayer Hossain">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_huebe9f2cfc81613e8f45a101ac5b8a47d_6130_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huebe9f2cfc81613e8f45a101ac5b8a47d_6130_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@@JHossain28">
+  <meta property="twitter:creator" content="@@JHossain28">
+  
+  <meta property="og:site_name" content="Jubayer Hossain">
+  <meta property="og:url" content="/">
+  <meta property="og:title" content="Jubayer Hossain">
+  <meta property="og:description" content="Health Data Science Enthusiast"><meta property="og:image" content="media/admin.jpg">
+  <meta property="twitter:image" content="media/admin.jpg"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2021-08-08T02:18:02&#43;06:00">
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": ""
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Jubayer Hossain</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.js"></script>
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Jubayer Hossain</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Jubayer Hossain</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching" data-target="#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications" data-target="#publications"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/education"><span>MOOCs</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Notes</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/https:/hossainlab.github.io/pandas/" data-target="https://hossainlab.github.io/pandas/"><span>Introduction to Python</span></a>
+            
+              <a class="dropdown-item" href="/https:/hossainlab.github.io/numpy/" data-target="https://hossainlab.github.io/numpy/"><span>Introduction to NumPy</span></a>
+            
+              <a class="dropdown-item" href="/https:/hossainlab.github.io/pandas/" data-target="https://hossainlab.github.io/pandas/"><span>Data Analysis with Pandas</span></a>
+            
+              <a class="dropdown-item" href="/https:/hossainlab.github.io/pandas/" data-target="https://hossainlab.github.io/pandas/"><span>Data Visualization with Python</span></a>
+            
+              <a class="dropdown-item" href="/https:/www.rpubs.com/jhossain" data-target="https://www.rpubs.com/jhossain"><span>Notes for Learning R</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-about  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-square" src="/author/jubayer-hossain/avatar_hude17c1e001ef38a4c17438c5774249fa_37811_270x270_fill_q75_lanczos_center.jpg" alt="Jubayer Hossain">
+      
+
+      <div class="portrait-title">
+        <h2>Jubayer Hossain</h2>
+        <h3>Founder &amp; Instructor</h3>
+
+        
+        <h3>
+          <a href="chiralbd.netlify.app/" target="_blank" rel="noopener">
+          <span>CHIRAL Bangladesh</span>
+          </a>
+        </h3>
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.twitter.com/JHossain28/" target="_blank" rel="noopener" aria-label="twitter">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.linkedin.com/in/jubayer28/" target="_blank" rel="noopener" aria-label="linkedin">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://github.com/hossainlab" target="_blank" rel="noopener" aria-label="github">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://kaggle.com/jhossain" target="_blank" rel="noopener" aria-label="kaggle">
+            <i class="fab fa-kaggle big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.researchgate.net/profile/Jubayer_Hossain5" target="_blank" rel="noopener" aria-label="researchgate">
+            <i class="fab fa-researchgate big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ" target="_blank" rel="noopener" aria-label="youtube">
+            <i class="fab fa-youtube big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>About Me</h1>
+
+    <p>I am a Graduate student at the Department of Microbiology at <a href="https://jnu.ac.bd/dept/portal/web/microbiology" target="_blank" rel="noopener">Jagannath University, Dhaka</a>. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.</p>
+<p>I am the founder of <a href="https://chiralbd.netlify.app/" target="_blank" rel="noopener">Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)</a>, a non-profit organization dedicated to health research to improve lives in Bangladesh.</p>
+<p>At CHIRAL Bangladesh, I lead two programs: <a href="https://chiralbd.netlify.app/teaching/programs/" target="_blank" rel="noopener">Scientific Computing for Biologists</a> and the other one is <a href="https://chiralbd.netlify.app/teaching/programs/" target="_blank" rel="noopener">Health Data Analytics</a>. In addition, I make <a href="https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ" target="_blank" rel="noopener">content</a> on Data Analysis with Python and R.</p>
+<p>Python is my primary language for data analysis and machine learning. I also have a basic understanding of R, Julia, SPSS, QGIS, and SQL.</p>
+<p>This page highlights my teaching and research projects. Please <a href="https://chiral.netlify.app/" target="_blank" rel="noopener">reach out</a> if you want to collaborate or have questions.</p>
+<p>
+  <i class="fas fa-download  pr-1 fa-fw"></i>  <a href="/media/resume.pdf" target="_blank">Resumé</a></p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Health Data Analytics</li>
+          
+          <li>Public Health</li>
+          
+          <li>Bioinformatics</li>
+          
+          <li>Genomic Epidemiology</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MS.c in Microbiology, 2020</p>
+              <p class="institution">Jagannath University, Dhaka</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BS.c in Microbiology, 2019</p>
+              <p class="institution">Jagannath University, Dhaka</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="experience" class="home-section wg-experience  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Affiliations</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Founder</h4>
+          <h4 class="card-title exp-company text-muted my-0"><a href="https://chiralbd.netlify.app/" target="_blank" rel="noopener">Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)</a></h4>
+          <div class="text-muted exp-meta">
+            Jun 2020 –
+            
+              Present
+            
+            
+              <span class="middot-divider"></span>
+              <span>Dhaka, Bangladesh</span>
+            
+          </div>
+          <div class="card-text">The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources and third-party data. Responsibilities include team management, organizing, and designing virtual training on different topics (Linux, Python, R, and Fundamental of Biostatistics for health research).</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Co-Founder</h4>
+          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.facebook.com/apnon.org" target="_blank" rel="noopener">Apon - Blood for Thalassemia</a></h4>
+          <div class="text-muted exp-meta">
+            Jun 2017 –
+            
+              Present
+            
+            
+              <span class="middot-divider"></span>
+              <span>Dhaka, Bangladesh</span>
+            
+          </div>
+          <div class="card-text">Apon is a non-profit blood donation platform lead by Health Data Research Organization. Primarily Apon is dedicated to Thalassemia patients. As we know, Thalassemia patients need 1-2 bags of blood every month. It&rsquo;s challenging to manage this amount of blood of their own. But if we work together, it will be easier for them.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Team Member</h4>
+          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.facebook.com/biobio.one/" target="_blank" rel="noopener">Bio-Bio-1</a></h4>
+          <div class="text-muted exp-meta">
+            Jun 2016 –
+            
+              Present
+            
+            
+              <span class="middot-divider"></span>
+              <span>Dhaka, Bangladesh</span>
+            
+          </div>
+          <div class="card-text">Bio-Bio-1 is a voluntary, non-profit organization formed by some passionate individuals in late 2008 to learn Bioinformatics for making some sense from the Enigma of Life. It also aims to spread the excitement of Research and Development by infecting like-minded individuals (especially the young ones) through several programs (i.e., weekly Study Circles). I was an active participant in their weekly study circle and learned a lot from them; especially, I learned bioinformatics techniques with the help of Python.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="teaching" class="home-section wg-experience  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Work Experience</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+<div class="col-12 col-lg-8">
+  
+
+  
+  
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Lead Organizer &amp; Instructor</h4>
+          <h4 class="card-title exp-company text-muted my-0"><a href="https://hdrobd.netlify.app/teaching/programs/" target="_blank" rel="noopener">Health Data Analytics</a></h4>
+          <div class="text-muted exp-meta">
+            Jul 2021 –
+            
+              Present
+            
+            
+              <span class="middot-divider"></span>
+              <span>Dhaka, Bangladesh</span>
+            
+          </div>
+          <div class="card-text">The course covers the fundamentals of Python programming and data analysis workflow. We will focus on data cleaning, management, and visualizations through a case study approach. We also focus on working with statistical problems, both descriptive and inferential techniques in health research. The basics of statistical model building and evaluating healthcare perspectives will be used in this course.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Lead Organizer &amp; Instructor</h4>
+          <h4 class="card-title exp-company text-muted my-0"><a href="https://hdrobd.netlify.app/teaching/programs/" target="_blank" rel="noopener">Scientific Computing for Biologists-2020</a></h4>
+          <div class="text-muted exp-meta">
+            Jun 2020 –
+            
+              Present
+            
+            
+              <span class="middot-divider"></span>
+              <span>Dhaka, Bangladesh</span>
+            
+          </div>
+          <div class="card-text">Scientific Computing for Biologists is an introductory course organized by Health Data Research Organization with applications to Health Data Science, Genomic Data Science, Bioinformatics, and more. Students will learn Python, R programming, Julia, Statistics and get practical experience building public health and biological data analysis pipelines.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title exp-title text-muted mt-0 mb-1">Teacher</h4>
+          <h4 class="card-title exp-company text-muted my-0"><a href="http://www.whitehopebd.com/" target="_blank" rel="noopener">White Hope Academy</a></h4>
+          <div class="text-muted exp-meta">
+            Feb 2016 –
+            
+              Present
+            
+            
+              <span class="middot-divider"></span>
+              <span>Dhaka, Bangladesh</span>
+            
+          </div>
+          <div class="card-text">I have provided comprehensive tutoring in Physics and Chemistry to the students of 10th, 11th, and 12th grade.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Working Papers</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  <!-- <div class="alert alert-note">
+  <div>
+    Quickly discover relevant content by <a href="./publication/">filtering publications</a>.
+  </div>
+</div>
+ -->
+
+
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/impact-of-distance-learning-on-university-students/" >Perception and the Impact of Distance Learning on Students from the Science Faculty at Jagannath University, Dhaka during COVID-19: An Exploratory Study</a>
+    </h3>
+
+    
+    <a href="/publication/impact-of-distance-learning-on-university-students/"  class="summary-link">
+      <div class="article-style">
+        To assess the health impact of distance learning among Bangladeshi university students during COVID-19.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span ><a href="/author/md.-jubayer-hossain/">Md. Jubayer Hossain</a></span>, <span ><a href="/author/atik-shahriar-sammo/">Atik Shahriar Sammo</a></span>, <span ><a href="/author/bithi-akter/">Bithi Akter</a></span>, <span ><a href="/author/tanjum-ahmed-nodee/">Tanjum Ahmed Nodee</a></span>, <span ><a href="/author/sanjida-akter-sathy/">Sanjida Akter Sathy</a></span>, <span ><a href="/author/ema-akter/">Ema Akter</a></span>, <span ><a href="/author/susmita-jahan-bristy/">Susmita Jahan Bristy</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    
+    
+    <a href="/publication/impact-of-distance-learning-on-university-students/" >
+      <img src="/publication/impact-of-distance-learning-on-university-students/featured_huab670a7dedbb22b79653ce4e122ee821_102857_be91460e969f269e2bf80b155ac3613b.png" data-src="/publication/impact-of-distance-learning-on-university-students/featured_huab670a7dedbb22b79653ce4e122ee821_102857_150x0_resize_lanczos_2.png" alt="Perception and the Impact of Distance Learning on Students from the Science Faculty at Jagannath University, Dhaka during COVID-19: An Exploratory Study" class="lazyload">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/student-student-perception-of-antibiotic-resistance/" >Perception of Students on Antibiotic Resistance and Prevention: An Online,Community-Based Case Study from Dhaka,Bangladesh </a>
+    </h3>
+
+    
+    <a href="/publication/student-student-perception-of-antibiotic-resistance/"  class="summary-link">
+      <div class="article-style">
+        To learn about current perceptions about antibiotic use and resistance so that an effective community engagement strategy could be devised. A preliminary study would show knowledge about a global issue among graduates.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span ><a href="/author/syeda-tasneem-towhid/">Syeda Tasneem Towhid</a></span>, <span ><a href="/author/md.-jubayer-hossain/">Md. Jubayer Hossain</a></span>, <span ><a href="/author/sumona-akter/">Sumona Akter</a></span>, <span ><a href="/author/md.-atik-shariar-sammo/">Md. Atik Shariar Sammo</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/https:/github.com/hdrobd/Antibiotics-Registance" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/project/Antibiotic-Resistance-50" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    
+    
+    <a href="/publication/student-student-perception-of-antibiotic-resistance/" >
+      <img src="/publication/student-student-perception-of-antibiotic-resistance/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_527315_c03738647e2fcf6a06b230e983548a10.jpg" data-src="/publication/student-student-perception-of-antibiotic-resistance/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_527315_150x0_resize_q75_lanczos.jpg" alt="Perception of Students on Antibiotic Resistance and Prevention: An Online,Community-Based Case Study from Dhaka,Bangladesh " class="lazyload">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/self-management-of-diabetes/" >Self Management And Knowledge of Diabetic Patients in Bangladesh and the Prevalence rate of Diabetes</a>
+    </h3>
+
+    
+    <a href="/publication/self-management-of-diabetes/"  class="summary-link">
+      <div class="article-style">
+        This study aimed to assess type 1 &amp; 2 diabetic patients knowledge of self-care practices.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span ><a href="/author/md.-jubayer-hossain/">Md. Jubayer Hossain</a></span>, <span ><a href="/author/sumona-akter/">Sumona Akter</a></span>, <span ><a href="/author/md.-atik-shariar-sammo/">Md. Atik Shariar Sammo</a></span>, <span ><a href="/author/shahid-hasan-munzur/">Shahid Hasan Munzur</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/https:/github.com/hdrobd/diabetes-selfmanagement" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.researchgate.net/project/Diabetes-363" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    
+    
+    <a href="/publication/self-management-of-diabetes/" >
+      <img src="/publication/self-management-of-diabetes/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_1775840_c4601dde32ea373a754cbca8df3a3dcb.jpg" data-src="/publication/self-management-of-diabetes/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_1775840_150x0_resize_q75_lanczos.jpg" alt="Self Management And Knowledge of Diabetic Patients in Bangladesh and the Prevalence rate of Diabetes" class="lazyload">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+
+  
+  
+  
+
+    
+    
+      
+    
+
+    
+
+    <div class="see-all">
+      <a href="/publication/">
+        See All On Going Research
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Projects</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+  <div class=" row js-layout-row ">
+    
+
+      
+      
+      
+        
+        
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item ">
+  
+
+
+
+
+
+
+
+  
+  
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="https://share.streamlit.io/hossainlab/community_mobility/main/app.py" target="_blank" rel="noopener">Bangladesh COVID-19 Community Mobility Reports</a>
+    </h3>
+
+    
+    <a href="https://share.streamlit.io/hossainlab/community_mobility/main/app.py" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        This dashboard aims to provide insights into what has changed in response to policies aimed at fighting COVID-19.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    
+    
+    <a href="https://share.streamlit.io/hossainlab/community_mobility/main/app.py" target="_blank" rel="noopener">
+      <img src="/project/community_obility/featured_hud803259bc6303f762d13608ee46c603e_130220_e1acef7b9f0cd4d2163c99a5931b6e14.png" data-src="/project/community_obility/featured_hud803259bc6303f762d13608ee46c603e_130220_150x0_resize_lanczos_2.png" alt="Bangladesh COVID-19 Community Mobility Reports" class="lazyload">
+    </a>
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+        
+        
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-Disease-Detection js-id-ML">
+  
+
+
+
+
+
+
+
+  
+  
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="https://share.streamlit.io/hossainlab/chiral-dds/main/app.py" target="_blank" rel="noopener">CHIRAL Disease Detection System (CHIRAL-DDS)</a>
+    </h3>
+
+    
+    <a href="https://share.streamlit.io/hossainlab/chiral-dds/main/app.py" target="_blank" rel="noopener" class="summary-link">
+      <div class="article-style">
+        The aim of this Disease Detection System(DDS) to detect some disease by using machine learning techniques.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    
+    
+    <a href="https://share.streamlit.io/hossainlab/chiral-dds/main/app.py" target="_blank" rel="noopener">
+      <img src="/project/dds/featured_hu079601d3e803b10f7f0ad6a9ea5f2f53_149972_f7d47808da3f57c487ac367a44c03b3d.png" data-src="/project/dds/featured_hu079601d3e803b10f7f0ad6a9ea5f2f53_149972_150x0_resize_lanczos_2.png" alt="CHIRAL Disease Detection System (CHIRAL-DDS)" class="lazyload">
+    </a>
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+<div class="col-12 isotope-item js-id-Health-Data-Science">
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/project/covid119_mapping/" >Mapping the Coronavirus Cases</a>
+    </h3>
+
+    
+    <a href="/project/covid119_mapping/"  class="summary-link">
+      <div class="article-style">
+        Mapping COVID-19 confirmed cases  with Geopandas and Matplotlib
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    
+    
+    <a href="/project/covid119_mapping/" >
+      <img src="/project/covid119_mapping/featured_hu1d3396ba39d5a90bd11aff9964909d21_123547_d38a0a37a2a0f3255b16801576641ca9.png" data-src="/project/covid119_mapping/featured_hu1d3396ba39d5a90bd11aff9964909d21_123547_150x0_resize_lanczos_2.png" alt="Mapping the Coronavirus Cases" class="lazyload">
+    </a>
+    
+  </div>
+</div>
+
+</div>
+
+      
+
+    
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="posts" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="col-12 col-lg-4 section-heading">
+            <h1>Blog Posts</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/data-management-with-r/" >Data Management with R: An Inroduction to dplyr</a>
+    </h3>
+
+    
+    <a href="/post/data-management-with-r/"  class="summary-link">
+      <div class="article-style">
+        dplyr is a new package which provides a set of tools for efficiently manipulating datasets in R.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 1, 0001
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    15 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r-programming/">R Programming</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+
+  
+  
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    Jubayer Hossain
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+    Published with
+    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/julia.min.js"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/shell.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/wowchemy.min.ffabb05383f1b16d83e7181a605e644c.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

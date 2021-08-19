@@ -1,0 +1,99 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+
+[[main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[main]]
+  name = "Teaching"  # Title of the link.
+  url = "#teaching"  # Widget Page folder name.
+  weight = 2  # Position of the link in the navigation bar.
+
+
+[[main]]
+  name = "Research"  # Title of the link.
+  url = "#publications"  # Widget Page folder name.
+  weight = 3  # Position of the link in the navigation bar.
+
+[[main]]
+name = "Projects"
+url = "#projects"
+weight = 4
+
+[[main]]
+  name = "MOOCs"
+  url = "/education"
+  weight = 5
+
+[[main]]
+name = "Notes"
+identifier = "notes"
+weight = 6
+[[main]]
+  name = "Introduction to Python"
+  parent = "notes"
+  url = "https://hossainlab.github.io/pandas/"
+  weight = 1
+
+[[main]]
+  name = "Introduction to NumPy"
+  parent = "notes"
+  url = "https://hossainlab.github.io/numpy/"
+  weight = 2
+
+[[main]]
+  name = "Data Analysis with Pandas"
+  parent = "notes"
+  url = "https://hossainlab.github.io/pandas/"
+  weight = 3
+
+[[main]]
+  name = "Data Visualization with Python"
+  parent = "notes"
+  url = "https://hossainlab.github.io/pandas/"
+  weight = 4
+
+[[main]]
+  name = "Notes for Learning R"
+  parent = "notes"
+  url = "https://www.rpubs.com/jhossain"
+  weight = 5
+
+[[main]]
+name = "Resources"
+url = "/resources"
+weight = 7
+
+
+# [[main]]
+# name = "Posts"
+# url = "#posts"
+# weight = 8
+
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 9
+
+
+
+
+
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 40
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "media/cv.pdf"
+#    weight = 70
