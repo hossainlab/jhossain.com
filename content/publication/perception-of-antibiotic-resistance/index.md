@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 title: " Public Perception on the Spread of Antibiotic Resistance in Bangladesh."
-authors: [Syeda Tasneem Towhid, Md. Jubayer Hossain, Sumona
+authors: [Syeda Tasneem Towhid, Ph.D, Md. Jubayer Hossain, Sumona
 Akter, Md. Atik Shariar Sammo, Sharif Hossain, Sumaiya Akter Mukta, Morsheda Munia, Mohammad Nahian]
 date: 2021-04-16T06:38:12+06:00
 doi: ""
@@ -38,15 +38,15 @@ featured: false
 
 url_pdf:
 url_code: https://github.com/hdrobd/Antibiotics-Registance
-url_dataset: 
+url_dataset:
 url_poster:
 url_project: https://www.researchgate.net/project/Antibiotic-Resistance-50
 url_slides:
-url_source: 
+url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -68,7 +68,7 @@ projects: []
 slides: ""
 ---
 
-## Introduction 
+## Introduction
 
 Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing the body’s natural defences, such as the immune system, to eliminate them. They often act by inhibiting the synthesis of a bacterial cell, synthesis of proteins, deoxyribonucleic acid (DNA), ribonucleic acid (RNA), by a membrane disorganizing agent, or other specific actions. Antibiotics may also enter the cell wall of the bacteria by binding to them, using the energy-dependent transport mechanisms in ribosomal sites, which subsequently lead to the inhibition of the protein synthesis.
 
@@ -80,7 +80,7 @@ Antibiotics either are cytotoxic or cytostatic to the micro-organisms, allowing 
 - Optimize the use of antimicrobial medicines in human and animal health.
 - Develop the economic case for sustainable investment that takes account of the needs of all countries and to increase investment in new medicines, diagnostic tools, vaccines and other interventions.
 
-## Survey 
+## Survey
 
  <iframe
        src="https://forms.gle/rhxha5Xsxv8WXg8M7"
