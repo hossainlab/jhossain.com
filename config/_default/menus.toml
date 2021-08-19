@@ -65,10 +65,10 @@ weight = 6
   url = "https://www.rpubs.com/jhossain"
   weight = 5
 
-[[main]]
-name = "Resources"
-url = "/resources"
-weight = 7
+# [[main]]
+# name = "Resources"
+# url = "/resources"
+# weight = 7
 
 
 # [[main]]
