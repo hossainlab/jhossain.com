@@ -7,7 +7,7 @@ event_url: https://github.com/hossainlab/ArtofGenomeAnalysis
 location: Jagannath University
 address:
   street: 9-10, Chittaranjan Avenue
-  city: Dhaka 
+  city: Dhaka
   region: CA
   postcode: '1100'
   country: Bangladesh
@@ -44,7 +44,7 @@ links:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/hossainlab/ArtofGenomeAnalysis"
 url_slides: "https://github.com/hossainlab/ArtofGenomeAnalysis"
 url_video: ""
 
@@ -53,13 +53,13 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: https://github.com/hossainlab/ArtofGenomeAnalysis
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - example
 ---

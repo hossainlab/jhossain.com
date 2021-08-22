@@ -37,16 +37,16 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code: 
+url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://chiralbd.netlify.app/project/covid19/
 url_slides:
 url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -68,7 +68,7 @@ projects: []
 slides: ""
 ---
 
-## Survey 
+## Survey
 
  <iframe
        src="https://forms.gle/NRZKFQZ1YGGrV4Vi9"

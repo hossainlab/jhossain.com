@@ -22,7 +22,8 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: " To assess health-related QOL (Quality of Life) and its determinants in patients with Thalassemia using SF-36 Questionnaire.
+"
 
 tags: []
 categories: []
@@ -40,7 +41,7 @@ url_pdf:
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://chiralbd.netlify.app/project/thalassemia/
 url_slides:
 url_source:
 url_video:
