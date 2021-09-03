@@ -14,13 +14,12 @@ organizations:
   url: "chiralbd.netlify.app/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Microbiology Master’s student at Jagannath University and a Health Data   
+bio: I am a Microbiology Master’s student at Jagannath University and a Health Data
   The Health Data Research Organization (HDRO) is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources and third-party data. Students and young professionals with expertise in biological science and health science run the organization, supervised by university faculty members in the life sciences.
 
 interests:
-- Health Data Analytics 
-- Public Health 
-- Bioinformatics
+- Public Health
+- GIS and Remote Sensing in Public Health
 - Genomic Epidemiology
 
 education:
@@ -84,14 +83,14 @@ user_groups:
 - Visitors
 ---
 
-I am a Graduate student at the Department of Microbiology at [Jagannath University, Dhaka](https://jnu.ac.bd/dept/portal/web/microbiology). I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research. 
+I am a Graduate student at the Department of Microbiology at [Jagannath University, Dhaka](https://jnu.ac.bd/dept/portal/web/microbiology). I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.
 
-I am the founder of [Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)](https://chiralbd.netlify.app/), a non-profit organization dedicated to health research to improve lives in Bangladesh. 
+I am the founder of [Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)](https://chiralbd.netlify.app/), a non-profit organization dedicated to health research to improve lives in Bangladesh.
 
-At CHIRAL Bangladesh, I lead two programs: [Scientific Computing for Biologists](https://chiralbd.netlify.app/teaching/programs/) and the other one is [Health Data Analytics](https://chiralbd.netlify.app/teaching/programs/). In addition, I make [content](https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ) on Data Analysis with Python and R. 
+At CHIRAL Bangladesh, I lead two programs: [Scientific Computing for Biologists](https://chiralbd.netlify.app/teaching/programs/) and the other one is [Health Data Analytics](https://chiralbd.netlify.app/teaching/programs/). In addition, I make [content](https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ) on Data Analysis with Python and R.
 
 Python is my primary language for data analysis and machine learning. I also have a basic understanding of R, Julia, SPSS, QGIS, and SQL.
 
-This page highlights my teaching and research projects. Please [reach out](https://chiral.netlify.app/) if you want to collaborate or have questions. 
+This page highlights my teaching and research projects. Please [reach out](https://chiral.netlify.app/) if you want to collaborate or have questions.
 
 {{< icon name="download" pack="fas" >}}  {{< staticref "media/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
