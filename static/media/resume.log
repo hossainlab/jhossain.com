@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.22)  19 AUG 2021 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.22)  5 SEP 2021 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,23 +750,23 @@ Package hyperref Warning: Suppressing link with empty target on input line 70.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
-Package hyperref Warning: Suppressing link with empty target on input line 145.
+Package hyperref Warning: Suppressing link with empty target on input line 146.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 150.
+Package hyperref Warning: Suppressing link with empty target on input line 151.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 170.
+Package hyperref Warning: Suppressing link with empty target on input line 171.
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 179.
+Package hyperref Warning: Suppressing link with empty target on input line 180.
 
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-93.
+94.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -777,18 +777,18 @@ Package microtype Info: Loading generic protrusion settings for font family
  
 AED: lastpage setting LastPage
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 18385A4EE2067493BABF56BE2EA079E9;982.
  ) 
 Here is how much of TeX's memory you used:
  14635 strings out of 481239
  221936 string characters out of 5920377
- 519922 words of memory out of 5000000
+ 520922 words of memory out of 5000000
  29588 multiletter control sequences out of 15000+600000
  582539 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -801,7 +801,7 @@ sfonts/cm/cmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on resume.pdf (3 pages, 122989 bytes).
+Output written on resume.pdf (3 pages, 123022 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
