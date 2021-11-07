@@ -26,7 +26,7 @@ font = "custom"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Jagannath University"
+org_name = "Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) "
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Health Data Science Enthusiast"
+description = ""
 
 ############################
 ## Site Features
@@ -181,7 +181,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+  shape = "circle"
 
 # Configuration of publication pages.
 [publications]

@@ -11,14 +11,14 @@
   weight = 1
 
 [[main]]
-  name = "Teaching"  # Title of the link.
-  url = "#teaching"  # Widget Page folder name.
+  name = "Research"  # Title of the link.
+  url = "#publications"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
 
 [[main]]
-  name = "Research"  # Title of the link.
-  url = "#publications"  # Widget Page folder name.
+  name = "Teaching"  # Title of the link.
+  url = "#teaching"  # Widget Page folder name.
   weight = 3  # Position of the link in the navigation bar.
 
 [[main]]
@@ -69,6 +69,11 @@ weight = 4
 name = "Notes"
 url = "/notes"
 weight = 7
+
+[[main]]
+name = "Contact"
+url = "#contact"
+weight = 8
 
 
 # [[main]]

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bangladesh COVID-19 Community Mobility Reports"
-summary: "This dashboard aims to provide insights into what has changed in response to policies aimed at fighting COVID-19."
+title: "Calories Burnt Prediction using Machine Learning"
+summary: "The aim of this project is to predict the calories burnt using machine learning techniques. The data was obtained from [Kaggle](https://www.kaggle.com/aadhavvignesh/calories-burned-during-exercise-and-activities)."
 authors: []
 tags: []
-categories: []
-date: 2021-08-08T02:18:02+06:00
+categories: [Health Data Science, Machine Learning]
+date: 2021-10-08T20:45:27+06:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://share.streamlit.io/hossainlab/community_mobility/main/app.py"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/hossainlab/Community_Mobility"
+url_code: "https://github.com/hossainlab/Calories_Burnt"
 url_pdf: ""
 url_slides: ""
 url_video: ""

@@ -4,7 +4,7 @@ widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-bu
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 
-title = "Education"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format

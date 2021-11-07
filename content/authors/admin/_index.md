@@ -60,6 +60,9 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Jubayer_Hossain5
 
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/my-orcid?orcid=0000-0001-9323-4997
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ
@@ -91,6 +94,6 @@ At CHIRAL Bangladesh, I lead two programs: [Scientific Computing for Biologists]
 
 Python is my primary language for data analysis and machine learning. I also have a basic understanding of R, Julia, SPSS, QGIS, and SQL.
 
-This page highlights my teaching and research projects. Please [reach out](https://chiral.netlify.app/) if you want to collaborate or have questions.
+This page highlights my teaching and research projects. Please [reach out](https://allmylinks.com/jhossain28) if you want to collaborate or have questions.
 
 {{< icon name="download" pack="fas" >}}  {{< staticref "media/resume.pdf" "newtab" >}}Resumé{{< /staticref >}}

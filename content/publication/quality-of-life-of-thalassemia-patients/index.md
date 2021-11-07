@@ -16,8 +16,8 @@ publishDate: 2021-08-19T12:21:13+06:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Working paper"
+publication_short: "*Working paper*"
 
 abstract: ""
 

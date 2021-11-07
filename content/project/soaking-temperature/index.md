@@ -3,11 +3,11 @@
 
 title: "Soaking Temperature"
 summary: "The aim of the experiment was to see how soaking temperature affected the length increase in beans (Phaseolus vulgaris) when they were soaked in water for 12 hours."
-authors: []
+authors: [Md. Jubayer Hossain, Asif Shahriar]
 tags: []
 categories: []
 date: 2021-03-18T22:41:58+06:00
-draft: true 
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/hossainlab/Soaking_Temperature"
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/hossainlab/Soaking_Temperature"
 url_pdf: ""
 url_slides: ""
 url_video: ""

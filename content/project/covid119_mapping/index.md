@@ -7,7 +7,7 @@ authors: []
 tags: ["Health Data Science"]
 categories: []
 date: 2021-03-18T22:54:26+06:00
-draft: false  
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,7 +28,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/hossainlab/Mapping_COVID-19"
 url_pdf: ""
 url_slides: ""
 url_video: ""
