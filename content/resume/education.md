@@ -17,18 +17,14 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[education]]
-  course = 'PhD in Developmental Psychology & Quantitative Methods'
-  institution = 'Vanderbilt University'
-  year = 2008
 
 [[education]]
-  course = 'MSc in Developmental Psychology'
-  institution = 'Vanderbilt University'
-  year = 2005
+  course = 'MS.c in Microbiology'
+  institution = 'Jagannath University, Dhaka'
+  year =  2020
 
 [[education]]
-  course = 'BSc in Applied Psychology'
-  institution = 'Georgia Institute of Technology'
-  year = 2002
+  course = 'BS.c in Microbiology'
+  institution = 'Jagannath University, Dhaka'
+  year = 2019
 +++

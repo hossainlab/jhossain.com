@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Honors & Awards"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -19,113 +19,97 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Oregon Health & Science University School of Medicine"
-  organization_url = ""
-  title = "Excellence in Graduate Education Award"
-  url = ""
-  certificate_url = "https://www.ohsu.edu/school-of-medicine/honors-and-awards-ceremony-2018-school-medicine"
-  date_start = "2018-05-01"
-  date_end = ""
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "The Data Scientist’s Toolbox"
+  url = "https://www.coursera.org/learn/data-scientists-tools"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/ZPA8ZQWU3RX8"
+  date_start = "2020-06-01"
+  date_end = "2020-06-20"
   description = ""
 
 [[item]]
-  organization = "Oregon Health & Science University Faculty Senate"
-  organization_url = ""
-  title = "Distinguished Faculty Awards Nominee for Outstanding Teaching"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-04-01"
-  date_end = ""
-  description = "Awarded every 5 years, I was one of 5 nominees."
-
-[[item]]
-  organization = "ROpenSci Unconference"
-  organization_url = ""
-  title = "Invited Participant"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-01-01"
-  date_end = ""
-  description = "A yearly invite-only event that brings together scientists, developers, and open data enthusiasts from academia, industry, government, and non-profits to make an impact on open science"
-
-[[item]]
-  organization = "Oregon Health & Science University School of Medicine"
-  organization_url = ""
-  title = "Faculty Compact"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-01-01"
-  date_end = "2018-10-01"
-  description = "Awarded to researchers with a consistent track-record of external grant-funding"
-
-[[item]]
-  organization = "Oregon Health & Science University School of Medicine"
-  organization_url = ""
-  title = "Paths to Leadership Fellow"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-01-01"
-  date_end = "2016-07-01"
-  description = "A six-month program for a small group of individuals identified as emerging faculty leaders"
-
-[[item]]
-  organization = "Oregon Clinical & Translational Research Institute"
-  organization_url = ""
-  title = "Catalyst Award"
-  url = ""
-  certificate_url = "https://blogs.ohsu.edu/researchnews/2015/05/29/octri-announces-2016-catalyst-award-recipients/"
-  date_start = "2015-06-01"
-  date_end = "2017-06-01"
-  description = "Grant that supports novel, collaborative research initiatives"
-
-[[item]]
-  organization = "Arizona State University School of Social & Family Dynamics"
-  organization_url = ""
-  title = "Sanford Fellow"
-  url = ""
-  certificate_url = ""
-  date_start = "2008-08-01"
-  date_end = "2010-01-01"
+  organization = "DataCamp"
+  organization_url = "https://daacamp.com/"
+  title = "Introduction to SQL"
+  url = "https://learn.datacamp.com/courses/introduction-to-sql"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/UB93UTN2JQ9M"
+  date_start = "2020-12-10"
+  date_end = "2020-12-12"
   description = ""
 
 [[item]]
-  organization = "Vanderbilt University Department of Psychology & Human Development"
-  organization_url = ""
-  title = "Julius Seeman Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2008-05-01"
-  date_end = ""
-  description = "Awarded to the graduate student who exemplifies the department's ideals of scholastic, personal and professional achievement"
-
-[[item]]
-  organization = "Vanderbilt University Department of Psychology & Human Development"
-  organization_url = ""
-  title = "Susan Gray Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2007-05-01"
-  date_end = ""
-  description = "For excellence in scholarly writing to the graduate student who is sole or first author with the most distinguished scholarly publication during the previous year"
-
-[[item]]
-  organization = "National Institutes of Health"
-  organization_url = ""
-  title = "Ruth L. Kirschstein National Research Service Award Pre-Doctoral Fellow"
-  url = ""
-  certificate_url = ""
-  date_start = "2003-08-01"
-  date_end = "2006-08-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Programming for Everybody (Getting Started with Python)"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/2044fc0c8174ea507fafbf5d47ca71a7fab0a5e3"
+  date_start = "2020-04-10"
+  date_end = "2020-04-15"
   description = ""
 
 [[item]]
-  organization = "Georgia Tech Department of Psychology"
-  organization_url = ""
-  title = "Outstanding Undergraduate Award"
-  url = ""
-  certificate_url = ""
-  date_start = "2002-05-01"
-  date_end = ""
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Essential Epidemiologic Tools for Public Health Practice"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/5WHJWDLMS39T"
+  date_start = "2020-06-01"
+  date_end = "2020-06-12"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Data Visualization with Plotly Express"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/RDS8SG3CHSYJ"
+  date_start = "2020-06-01"
+  date_end = "2020-06-12"
+  description = ""
+
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Exploratory Data Analysis with Seaborn"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/U6FAPRHMBFD5"
+  date_start = "2020-05-01"
+  date_end = "2020-05-10"
+  description = ""
+
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Statistical Data Visualization with Seaborn"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/TXF8L74HFDLD"
+  date_start = "2020-09-01"
+  date_end = "2020-09-10"
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Create Interactive Dashboards with Streamlit and Python"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/E7PM4S8NJBEB"
+  date_start = "2020-05-01"
+  date_end = "2020-05-10"
+  description = ""
+
+
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org/"
+  title = "Spreadsheets for Beginners using Google Sheets"
+  url = "https://www.coursera.org/learn/python"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/HDHZTBR7Z73P"
+  date_start = "2020-04-01"
+  date_end = "2020-04-10"
   description = ""
 
 +++

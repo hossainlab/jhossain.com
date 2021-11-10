@@ -33,11 +33,11 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "Alison Hill"
+  orgName = "CHIRAL Bangladesh"
   orgLocal = ""
-  description = "Personal website and portfolio of Dr. Alison Hill."
-  favicon = "/img/favicon.ico"
-  logo = "/img/penguin.png"
+  description = "Personal website and portfolio of Jubayer Hossain."
+  favicon = "/img/favicon.png"
+  logo = "/img/logo.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -48,7 +48,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "JHossain28"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -146,20 +146,28 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
+    name = "Learn"
+    title = "Learn"
+    url = "/learn/"
+    weight = 3
+
+  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 4
+    
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
-  # [[menu.header]]
-  #   name = "Resume"
-  #   title = "Resume"
-  #   url = "/resume/"
-  #   weight = 4
+    weight = 6
+
+  [[menu.header]]
+    name = "Resume"
+    title = "Resume"
+    url = "/resume/"
+    weight = 7
 
   # Configure footer
   [[menu.footer]]
