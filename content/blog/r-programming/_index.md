@@ -1,7 +1,7 @@
 ---
-title: The Personal Notebook
+title: R Programming
 description: |
-  Personal notes on health data science, public health research and machine learning.
+  Notes on R Programming.
 author: Jubayer Hossain
 show_post_thumbnail: false
 show_author_byline: true
@@ -11,11 +11,13 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar:
-  title: The Personal Notebook
+  title: R Programming
   author: Jubayer Hossain
   description: |
-    “You have to make your own condensed notes. You learn from MAKING them. A lot of thinking goes into deciding what to include and exclude. You develop your own system of abbreviations and memory methods for the information.” <br>
-    ― Peter Rogers, Straight A at Stanford and on to Harvard
+    “The impulse to keep to yourself what you have learned is not only
+    shameful, it is destructive. Anything you do not give freely and
+    abundantly becomes lost to you. You open your safe and find ashes.” <br>
+    —Annie Dillard
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -23,7 +25,7 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: The Personal Notebook  # name your series
+  series: R Programming  # name your series
   author: Jubayer Hossain
   show_author_byline: true
   show_post_date: true
@@ -34,9 +36,9 @@ cascade:
     text_series_label: "In this series"
     text_contents_label: "On this page"
   tags:
-  - Personal Notes
+  - r-programming
   categories:
-  - Personal Notes
+  - r-programming
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**

@@ -13,7 +13,7 @@ layout: list # list, list-sidebar
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Alison Hill"
+  author: "Jubayer Hossain"
   show_author_byline: false
   show_post_date: true
   show_post_time: true

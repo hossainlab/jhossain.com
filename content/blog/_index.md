@@ -15,9 +15,12 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar:
   title: Blog
   description: |
-    This blog is my [digital garden](https://nesslabs.com/digital-garden-set-up), somewhere between a notepad and a blog.
+    “Put yourself, and your work, out there every day, and you’ll start
+    meeting some amazing people.” <br>
+    —Bobby Solomon
+
   author: "Jubayer Hossain"
-  text_link_label: Subscribe via RSS
+  #text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
 
