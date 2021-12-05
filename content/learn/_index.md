@@ -21,7 +21,7 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent events
-    text_link_url: /talk/
+    text_link_url: /learn/
     show_sidebar_adunit: false # show ad container
 ---
 

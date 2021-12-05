@@ -166,7 +166,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resume"
     title = "Resume"
-    url = "https://resume.jhossain.com/"
+    url = "https://eresume.jhossain.com/"
     weight = 7
 
   # Configure footer
