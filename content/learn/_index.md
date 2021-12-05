@@ -1,7 +1,7 @@
 ---
 title: Notes & Learning Materials
 description: |
-
+  Notes for learning health data science, statistics and machine learning for healthcare. 
 author: "Jubayer Hossain"
 show_post_thumbnail: true
 thumbnail_left: false

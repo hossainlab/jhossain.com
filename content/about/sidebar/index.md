@@ -4,7 +4,7 @@ author: "Jubayer Hossain"
 role: "Founder, Instructor @CHIRAL Bangladesh"
 avatar_shape: circle # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name"
+#audio_link_label: "How to say my name"
 link_list_label: "Interested in" # bookmarks, elsewhere, etc.
 link_list:
 - name: "Health Data Sciene"

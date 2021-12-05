@@ -1,23 +1,24 @@
 ---
-title: "Introduce yourself online with blogdown & Hugo Apéro"
+title: Working with Multidimensional Data Using NumPy
 draft: false
-event: 'RLadies Tunis'
-event_url: https://www.meetup.com/rladies-tunis/events/277518271/
-location: remote
-summary: "A workshop for building a personal website from the comfort of RStudio using the blogdown R package, using a Hugo theme I developed."
+event: 'Notes'
+event_url: https://hossainlab.github.io/numpy/
+location: Department of Microbiology, Jagannath University
+summary: "This is a short sequence of notes on NumPy for scientific work, specially in the field of data science written by Jubayer Hossian."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-26T11:00:00Z"
-date_end: "2021-05-26T13:00:00Z"
+date: "2020-10-25T13:00:00Z"
+date_end: "2020-10-25T13:00:00Z"
 all_day: false
-publishdate: "2021-05-24"
+publishdate: "2020-11-10"
 
 categories:
-  - workshop
+  - presentation
 tags:
-  - rmarkdown
-  - blogdown
+  - bioinformatics
+  - genomics
+  - genome analysis
 lastmod: '2019-06-16T02:20:01-07:00'
 featured: no
 image:
@@ -28,22 +29,21 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://github.com/hossainlab
+  url: https://hossainlab.github.io/numpy/
 - icon: github
   icon_pack: fab
   name: materials
-  url: https://github.com/rstudio-education/iyo-rstudio-global
-- icon: glass-cheers
-  icon_pack: fas
-  name: Hugo Apéro
-  url: /project/hugo-apero
-- icon: play-circle
-  icon_pack: fas
-  name: video
-  url: https://youtu.be/RksaNh5Ywbo
+  url: https://github.com/hossainlab/numpy
 ---
+Welcome to Introduction to NumPy. This is a short sequence of notes on NumPy for scientific work, specially in the field of data science written by Jubayer Hossian.
 
+## What is NumPy?
+NumPy is a Python package which stands for ‘Numerical Python’.
 
-"You should have a website!" You may have heard this one before, or even said it yourself. In this workshop, you’ll learn how to build and customize a website from the comfort of the RStudio IDE with R Markdown. We'll use the blogdown package and the Hugo Apéro theme to build and deploy a personal website. We’ll cover basic website care and feeding like using R Markdown to create content, how to use GitHub for version control and Netlify for publishing, and how to use the latest upgrades to the blogdown R package to keep your site up and running.
-
-The goal of this workshop is to equip participants with tools that amplify their own contributions, build a more visible presence in the R/data community, and share their knowledge and insights with others.
+- It is the core library for scientific computing, which contains a powerful n-dimensional array object.
+- Provide tools for integrating C, C++ etc.
+- It is also useful in linear algebra, random number capability etc.
+- Sophisticated (broadcasting) functions
+- Tools for integrating C/C++ and Fortran code
+- Useful linear algebra, Fourier transform, and random number capabilities
+- NumPy array can also be used as an efficient multi-dimensional container for generic data.

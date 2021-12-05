@@ -35,8 +35,4 @@ links:
   name: materials
   url: https://github.com/hossainlab/ArtofGenomeAnalysis
 ---
-
-
-“You should have a website!” You may have heard this one before, or even said it yourself. In this workshop, you’ll learn how to build and customize a website from the comfort of the RStudio IDE using the blogdown package. We’ll also cover basic website care and feeding like using R Markdown to create content, and how to use GitHub and Netlify to improve your workflow. Pre-work will be shared with participants ahead of time, but to get the most out of this workshop, you’ll want to have a GitHub account and be able to push and pull files from a GitHub repository using your local RStudio IDE.
-
-The goal of this workshop is to equip participants with tools that amplify their own contributions, build a more visible presence in the R/data community, and share their knowledge and insights with others.
+Genomics is the study of whole genomes of organisms, and incorporates elements from ge- netics. Genomics uses a combination of recombinant DNA, DNA sequencing methods, and bioinformatics to sequence, assemble, and analyse the structure and function of genomes. Genomics have become an inter-disciplinary(Computer Science, Statistics, Biology) sci- ence. The genomic data analysis steps typically include data collection, quality check and cleaning, processing, modeling, visualization and reporting.

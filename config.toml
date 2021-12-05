@@ -46,14 +46,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/share.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "JHossain28"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = ""
+  theme = "sky"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -89,7 +89,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/JHossain28"
+      url       = "https://twitter.com/Jhossain_28"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -98,10 +98,6 @@ enableEmoji = true
       icon      = "youtube" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
@@ -122,11 +118,6 @@ enableEmoji = true
       icon      = "kaggle" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://kaggle.com/jhossain"
-  [[params.social]]
-      icon      = "discord" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://discord.gg/QbGXCFTMNb"
-
 
 [taxonomies]
   category = "categories"
@@ -140,11 +131,11 @@ enableEmoji = true
     title = "About me"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  # [[menu.header]]
+  #   name = "Blog"
+  #   title = "Blog"
+  #   url = "/blog/"
+  #   weight = 2
   [[menu.header]]
     name = "Learn"
     title = "Learn"
