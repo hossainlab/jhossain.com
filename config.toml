@@ -131,15 +131,16 @@ enableEmoji = true
     title = "About me"
     url = "/about/"
     weight = 1
-  # [[menu.header]]
-  #   name = "Blog"
-  #   title = "Blog"
-  #   url = "/blog/"
-  #   weight = 2
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 2
+    
   [[menu.header]]
     name = "Learn"
     title = "Learn"
-    url = "/learn/"
+    url = "/blog/pm-notebook/"
     weight = 3
 
   [[menu.header]]
