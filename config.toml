@@ -140,7 +140,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Learn"
     title = "Learn"
-    url = "/blog/pm-notebook/"
+    url = "/learn/"
     weight = 3
 
   [[menu.header]]
