@@ -1,7 +1,7 @@
 ---
 title: "Jubayer Hossain"
 subtitle: "Intern @ icddr,b &  Founder, Instructor @CHIRAL Bangladesh"
-description: "I am a Graduate student at the Department of Microbiology at Jagannath University, Dhaka. I am also the founder of CHIRAL Bangladesh, a non-profit organization dedicated to health research to improve lives in Bangladesh."
+description: "Currently, I am working as an intern at the Health System and Population Studies Division, [icddr,b](icddrb.org/). I am the founder of [CHIRAL Bangladesh](https://chiralbd.org/), a non-profit organization dedicated to health research to improve lives in Bangladesh. I graduated from the Department of Microbiology at Jagannath University Dhaka."
 images:
   - img/home.jpg
 image_left: false

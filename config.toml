@@ -34,7 +34,7 @@ enableEmoji = true
 
 [params]
   orgName = "CHIRAL Bangladesh"
-  orgLocal = ""
+  orgLocal = "Dhaka, Bangladesh"
   description = "Personal website and portfolio of Jubayer Hossain."
   favicon = "/img/favicon.png"
   logo = "/img/logo.png"
@@ -48,12 +48,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/share.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "JHossain28"
+  twitter = "Jhossain_28"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "sky"
+  theme = "poppy"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
