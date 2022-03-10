@@ -142,6 +142,11 @@ enableEmoji = true
     title = "Learn"
     url = "/package/"
     weight = 3
+  [[menu.header]]
+    name = "Tools"
+    title = "Tools"
+    url = "/Productive Tools/"
+    weight = 3
 
   [[menu.header]]
     name = "Projects"
