@@ -1,5 +1,5 @@
 ---
-title: Talks & workshops
+title: Talks & Workshops
 description: |
   Events I have been invited to present at, shared along with slides, videos, and other linkable resources.
 author: "Jubayer Hossain"

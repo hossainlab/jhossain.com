@@ -1,43 +1,33 @@
 ---
-title: "Researchrabbit"
+title: "ResearchRabbit"
 weight: 3
-subtitle: "Build websites with Hugo and R Markdown"
-excerpt: "The goal of the blogdown package is to provide a powerful and infinitely customizable website output format for R Markdown."
+subtitle: "A New Literature Mapping Tool"
+excerpt: "ResearchRabbit is a literature mapping platform that takes one or more relevant seed papers and uses various algorithms to suggest and visualize relevant literature and researchers."
 date: 2021-01-18
-author: "Alison Hill"
+author: "Jubayer Hossain"
 tags:
-  - website
-  - blog
+  - research 
+  - literature review 
+  - research tools 
 categories:
-  - R
-  - package
+  - Research Tools
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/rstudio/blogdown
+
 - icon: book
   icon_pack: fas
   name: docs
-  url: https://bookdown.org/yihui/blogdown/
-- icon: bullhorn
+  url: https://help.rayyan.ai/hc/en-us
+- icon: globe
   icon_pack: fas
   name: latest release
-  url: https://blog.rstudio.com/2021/01/18/blogdown-v1.0/
+  url: https://www.rayyan.ai/
 ---
 
-The goal of the blogdown package is to provide a powerful and infinitely customizable website output format for R Markdown. You may install it from CRAN:
+ResearchRabbit is a literature mapping platform that takes one or more relevant seed papers and uses various algorithms to suggest and visualize relevant literature and researchers. The company behind ResearchRabbit had released this platform in beta for a while, and it was fully launched in Aug 2021 for open registration by everyone with an institutional email address.
 
-```r
-install.packages("blogdown")
-```
+## Resources 
+- [Article: ResearchRabbit: Uplift Your Research Adventure Down the Rabbit Hole](https://library.ust.hk/sc/researchrabbit/)
+- [Video: A Total Beginners Guide to Research Rabbit](https://youtu.be/7yTs-jZygE0)
 
-## Additional resources
-
-+ [Up & running with blogdown in 2021](https://alison.rbind.io/post/new-year-new-blogdown/)
-
-+ [Unbreak your blogdown site](https://alison.rbind.io/post/2020-12-27-blogdown-checks/) 
-
-+ [A spoonful of Hugo series](https://alison.rbind.io/categories/hugo/)

@@ -1,7 +1,7 @@
 ---
 title: Productive Tools That I Use in Research
 type: project
-description: "All about the productive tools I am using in daily research projects."
+description: "Literature Search, Screening, and Data Extraction"
 author: "Jubayer Hossain"
 show_post_thumbnail: true
 show_author_byline: false
@@ -11,9 +11,9 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: R Packages 
+  title: Productive Research Tools
   description: |
-    R Packages for Data Science, Data Analysis, Public Health & Genomic Data Science.
+    Tools for Literature Search, Screening, and Data Eextraction
   author: "Jubayer Hossain"
   text_link_label: ""
   text_link_url: ""
@@ -27,8 +27,8 @@ cascade:
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout only
   sidebar:
-    text_link_label: View all packages
-    text_link_url: /package/
+    text_link_label: View All Tools
+    text_link_url: /productive-tools/
     show_sidebar_adunit: false # show ad container
 ---
 

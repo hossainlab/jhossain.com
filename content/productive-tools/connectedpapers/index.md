@@ -1,57 +1,35 @@
 ---
-title: "Connectedpapers"
+title: "ConnectedPapers"
 weight: 2
-subtitle: "Build websites with the Distill web framework and R Markdown"
-excerpt: "The goal of the Distill package is to provide an output format for R Markdown optimized for online scientific and technical communication."
+subtitle: "A Free Tool to Explore Research Papers"
+excerpt: "Connected Papers is a visual tool to help researchers and applied scientists find academic papers relevant to their field of work."
 date: 2021-01-18
-author: "Alison Hill"
+author: "Jubayer Hossain"
 tags:
-  - website
-  - blog
+  - research 
+  - literature review 
+  - research tools 
 categories:
-  - R
-  - package
+  - Research Tools
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/rstudio/distill
+
 - icon: book
   icon_pack: fas
   name: docs
-  url: https://rstudio.github.io/distill/
-- icon: box-open
-  icon_pack: fas
-  name: reference
-  url: https://pkgs.rstudio.com/distill/
-- icon: bullhorn
+  url: https://connectedpapers.com/about
+
+- icon: globe
   icon_pack: fas
   name: latest release
-  url: https://blog.rstudio.com/2020/12/07/distill/
+  url: https://www.connectedpapers.com/
 ---
 
-Distill is a package built for R Markdown, an ecosystem of packages for creating computational documents in R. The goal of the Distill package is to provide an output format optimized for online scientific and technical communication. You may install it from CRAN:
+Connected Papers is a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.
 
-```r
-install.packages("distill")
-```
+Connected Papers helps you explore literature in your field of research. You can easily generate graphs that pull out papers on similar topics. It is a handy tool that complements traditional database discovery using keywords and citation links. It is especially helpful when you are building your understanding for literature review.
 
-In this workshop, we'll also use the postcards package to generate a nice "about" page for your distill website. You may also install it from CRAN:
-
-```r
-install.packages("postcards")
-```
-
-## Additional resources
-
-+ [Beautiful distill portfolio by Ijeamaka Anyene](https://ijeamaka-anyene.netlify.app/portfolio.html)
-
-+ [A personal distill blog by Miha Gazvoda](https://mihagazvoda.com/)
-
-+ [A personal distill blog by Danielle Brantley](https://datascidani.com/posts/2020-12-14-same-content-new-look/)
-
-+ [Made-for-each-other: postcards + distill](https://alison.rbind.io/post/2020-12-22-postcards-distill/) by yours truly
-
-+ [Building a distill website](https://lisalendway.netlify.app/posts/2020-12-09-buildingdistill/) by Dr. Lisa Lendway
+## Resources 
+- [Blog: A Free Tool to Explore Research Papers](https://library.ust.hk/sc/connected-papers/)
+- [Video: Find Research Papers](https://youtu.be/XjyewVqWuvM)
