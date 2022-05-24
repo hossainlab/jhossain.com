@@ -6,7 +6,7 @@ headline: |
   Hi there! Welcome.
 ---
 
-<!-- this is a subheadline -->
+<!-- this is a sub headline -->
 Currently, I am working as an intern at the Health System and Population Studies Division, [icddr,b](icddrb.org/). I am the founder of [CHIRAL Bangladesh](https://chiralbd.org/), a non-profit organization dedicated to health research to improve lives in Bangladesh. I graduated from the Department of Microbiology at Jagannath University Dhaka. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.
 
 I am the founder of Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh), a non-profit organization dedicated to health research to improve lives in Bangladesh.

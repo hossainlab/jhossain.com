@@ -48,12 +48,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/share.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "Jhossain_28"
+  twitter = "JHossain_28"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "grayscale"
+  theme = "water"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -159,13 +159,13 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 6
-
+    
   [[menu.header]]
     name = "Resume"
     title = "Resume"
     url = "https://eresume.jhossain.com/"
     weight = 7
-
+  
   # Configure footer
   [[menu.footer]]
     name = "License"
