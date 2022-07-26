@@ -147,6 +147,13 @@ enableEmoji = true
     title = "Tools"
     url = "/Productive Tools/"
     weight = 3
+    
+    [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "publications"
+    weight = 7
+  
 
   [[menu.header]]
     name = "Projects"
@@ -160,11 +167,15 @@ enableEmoji = true
     url = "/talk/"
     weight = 6
     
+    
   [[menu.header]]
     name = "Resume"
     title = "Resume"
-    url = "https://eresume.jhossain.com/"
+    url = "resume"
     weight = 7
+  
+  
+  
   
   # Configure footer
   [[menu.footer]]

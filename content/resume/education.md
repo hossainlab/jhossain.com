@@ -3,7 +3,7 @@
 widget = "education"  # Do not modify this line!
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 21  # Order that this section will appear.
 
 title = "Education"
 subtitle = ""
@@ -18,13 +18,15 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[education]]
-  course = 'MS.c in Microbiology'
-  institution = 'Jagannath University, Dhaka'
-  year =  2020
 
 [[education]]
-  course = 'BS.c in Microbiology'
-  institution = 'Jagannath University, Dhaka'
+  course = 'Master of Science in Microbiology'
+  institution = 'Jagannath University'
+  year = 2021
+  
+[[education]]
+  course = 'Bachelor of Science in Microbiology'
+  institution = 'Jagannath University'
   year = 2019
+
 +++
