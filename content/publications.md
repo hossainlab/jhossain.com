@@ -6,6 +6,8 @@ show_title_as_headline: true
 title: Publications
 ---
 
+<p style="align:justify;"> 
+
 ## Peer-reviewed Papers 
 
 1. Towhid, S. T., Hossain, M. J., Sammo, M. A. S., & Akter, S. (2022). **Perception of Students on Antibiotic Resistance and Prevention: An Online, Community-Based Case Study from Dhaka, Bangladesh.** European Journal of Biology and Biotechnology, 3(3), 14–19. https://doi.org/10.24018/ejbio.2022.3.3.341
@@ -38,4 +40,4 @@ title: Publications
 
 3. Dr. Kamrun Nahar Koly, Dr K M Saif-Ur-Rahman, Jobaida Saba, Md. Jubayer Hossain, Dr. Anan Nisat Nabela Hossain, Mansura Islam, Mohammad Raihan Tariq, Dr Naralle Warren (2022). **Interventions to Improve the Mental Health among Intimate Partner Violence Survivors in Low and Middle-income countries: A Systematic Review**
 
-
+</p>

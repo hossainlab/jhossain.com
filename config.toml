@@ -131,51 +131,39 @@ enableEmoji = true
     title = "About me"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
-    
-  [[menu.header]]
-    name = "Learn"
-    title = "Learn"
-    url = "/package/"
-    weight = 3
-  [[menu.header]]
-    name = "Tools"
-    title = "Tools"
-    url = "/Productive Tools/"
-    weight = 3
+ 
     
     [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "publications"
-    weight = 7
+    weight = 2
   
-
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 4
+    weight = 3
 
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 6
-    
+    weight = 4
     
   [[menu.header]]
-    name = "Resume"
-    title = "Resume"
-    url = "resume"
-    weight = 7
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 5
+    
+  [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "CV/CV_JUBAYER_HOSSAIN.pdf"
+    weight = 6
   
-  
-  
+ 
   
   # Configure footer
   [[menu.footer]]

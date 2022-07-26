@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alison Hill
+name: Jubayer Hossain
 
 # Username (this should match the folder name)
 title: Jubayer Hossain
