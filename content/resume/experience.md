@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Academic Credentials, Research Experiences, and Teaching"
+title = "Academic Credentials and Experiences"
 subtitle = ""
 
 # Date format for experience
@@ -18,6 +18,47 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+# Education 
+[[experience]]
+  title = "Master of Science in Microbiology"
+  company = "Jagannath University"
+  company_url = "https://jnu.ac.bd/dept/portal/web/microbiology"
+  location = "Dhaka, Bangladesh"
+  date_start = "2019-2-01"
+  date_end = "2021-01-01"
+  description = """Jagannath University is a state-funded public university at 9–10, Chittaranjan Avenue in Sadarghat, Dhaka, the capital of Bangladesh."""
+
+
+[[experience]]
+  title = "Bachelor of Science in Microbiology"
+  company = "Jagannath University"
+  company_url = "https://jnu.ac.bd/dept/portal/web/microbiology"
+  location = "Dhaka, Bangladesh"
+  date_start = "2016-2-01"
+  date_end = "2018-01-01"
+  description = """Jagannath University is a state-funded public university at 9–10, Chittaranjan Avenue in Sadarghat, Dhaka, the capital of Bangladesh."""
+
+
+[[experience]]
+  title = "Research Intern"
+  company = "International Centre for Diarrhoeal Disease Research, Bangladesh"
+  company_url = "https://www.icddrb.org/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2022-2-01"
+  date_end = "2022-07-01"
+  description = """International Centre for Diarrheal Disease Research, Bangladesh (ICCDR, B) is a pioneer non-profit healthcare research center that deals with several precious humanitarian responses, including fundamental research on diseases in the developing world. Along with professionals, ICDDR, B offers students from disciplined life sciences backgrounds the opportunity to learn work and acquire experiences through several period internship programs and help continue heir research career and improve research skills. And Scientists and research experts have always been instructing students to become acquainted with these proficiencies."""
+
+[[experience]]
+  title = "Data Analyst"
+  company = "CHIRAL Bangladesh"
+  company_url = "https://chiralbd.org/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2020-6-01"
+  date_end = "Present"
+  description = """The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources and third-party data. Responsibilities include team management, organizing, and designing virtual training on different topics (Linux, Python, R, and Fundamental of Biostatistics for health research)."""
+
 [[experience]]
   title = "Founder & Instructor"
   company = "CHIRAL Bangladesh"
@@ -25,9 +66,7 @@ date_format = "January 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2020-6-01"
   date_end = "Present"
-  description = """
-  The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit health research organization in Bangladesh
-  """
+  description = """The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources and third-party data. Responsibilities include team management, organizing, and designing virtual training on different topics (Linux, Python, R, and Fundamental of Biostatistics for health research)."""
 
 [[experience]]
   title = "Team Member"
@@ -39,47 +78,16 @@ date_format = "January 2006"
   description = """
     Bio-Bio-1 is a voluntary, non-profit organization formed by some passionate individuals in late 2008 to learn Bioinformatics for making some sense from the Enigma of Life.
     """
-
-
+    
+    
 [[experience]]
-      title = "Lead Organizer & Instructor"
-      company = "Health Research ToolBox: A Step by Step Guide for Beginners"
-      company_url = "https://chiralbd.netlify.app/teaching/research-toolbox/program-intro/"
-      location = "Dhaka, Bangladesh"
-      date_start = "2021-08-01"
-      date_end = ""
-      description = """
-      The Center for Health Innovation, Research, Action, and Learning - Bangladesh (CHIRAL Bangladesh) runs different health data analytics, bioinformatics, and genomic data science programs. Health Research ToolBox: A Step by Step Guide for Beginners is one of them; in this program, the participants will learn how to handle an end-to-end research project, literature search, and manuscript writing. The course will start in September 2021.
-      """
-[[experience]]
-      title = "Lead Organizer & Instructor"
-      company = "Health Data Analytics"
-      company_url = "https://chiralbd.netlify.app/teaching/py4hda"
-      location = "Dhaka, Bangladesh"
-      date_start = "2021-07-01"
-      date_end = ""
-      description = """
-      The course covers the fundamentals of Python programming and data analysis workflow. We will focus on data cleaning, management, and visualizations through a case study approach. We also focus on working with statistical problems, both descriptive and inferential techniques in health research. The basics of statistical model building and evaluating healthcare perspectives will be used in this course.
-      """
-[[experience]]
-      title = "Lead Organizer & Instructor"
-      company = "Scientific Computing for Biologists"
-      company_url = "https://chiralbd.netlify.app/teaching/programs/"
-      location = "Dhaka, Bangladesh"
-      date_start = "2020-06-01"
-      date_end = ""
-      description = """
-      Scientific Computing for Biologists is an introductory course organized by Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL) with applications to Health Data Science, Genomic Data Science, Bioinformatics, and more. Students will learn Python, R programming, Julia, Statistics and get practical experience building public health and biological data analysis pipelines.
-      """
-[[experience]]
-      title = "Teacher"
-      company = "White Hope Academy"
-      company_url = "http://www.whitehopebd.com/"
-      location = "Dhaka, Bangladesh"
-      date_start = "2016-02-01"
-      date_end = ""
-      description = """
-      I have provided comprehensive tutoring in Physics and Chemistry to the students of 10th, 11th, and 12th grade.
-      """
-
+  title = "Instructor"
+  company = "White Hope Academy"
+  company_url = "https://www.facebook.com/biobio.one/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2016-04-01"
+  date_end = "2020-10-10"
+  description = """
+    I have provided comprehensive tutoring in Physics and Chemistry to the students of 10th, 11th, and 12th grade.
+    """
 +++
