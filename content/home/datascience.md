@@ -30,6 +30,6 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Shiny apps"
-  description = "Interactive apps and dashboards for your data."
+  description = "Interactive apps and dashboards for data."
 
 +++

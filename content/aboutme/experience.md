@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Public Health and Data Science Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,66 +17,38 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Data Scientist"
-  company = "Apple"
-  company_url = ""
-  location = "Los Angeles, CA"
-  date_start = "2021-11-01"
-  date_end = ""
-  description = ""
-  
-[[experience]]
-  title = "Clinical Research Data Scientist"
-  company = "Teladoc Health"
-  company_url = ""
-  location = "Los Angeles, CA"
-  date_start = "2020-06-01"
-  date_end = "2021-10-01"
-  description = ""
-  
-[[experience]]
-  title = "Research Assistant"
-  company = "University of Southern California"
-  company_url = ""
-  location = "Los Angeles, CA"
-  date_start = "2015-08-15"
-  date_end = "2020-05-20"
-  description = ""
-  
-[[experience]]
-  title = "R Markdown Intern"
-  company = "RStudio"
-  company_url = "https://rstudio.com/"
-  location = "Los Angeles, CA"
-  date_start = "2019-06-02"
-  date_end = "2019-08-23"
-  description = ""
-  
-[[experience]]
-  title = "Research Assistant"
-  company = "Institute for Innovation in Palliative Care<br>Institute for Family Health"
-  company_url = ""
-  location = "New York, NY"
-  date_start = "2014-01-01"
-  date_end = "2015-08-15"
-  description = ""
+
 
 [[experience]]
-  title = "Diabetes Prevention Coordinator"
-  company = "AmeriCorps<br>Institute for Family Health"
-  company_url = ""
-  location = "New York, NY"
-  date_start = "2013-09-01"
-  date_end = "2014-08-15"
-  description = ""
-  
+  title = "Research Intern"
+  company = "International Centre for Diarrhoeal Disease Research, Bangladesh"
+  company_url = "https://www.icddrb.org/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2022-02-16"
+  date_end = ""
+  description = """
+  International Centre for Diarrheal Disease Research, Bangladesh (ICCDR, B) is   a pioneer non-profit healthcare research center that deals with several precious humanitarian responses, including fundamental research on diseases in the developing world. Along with professionals, ICDDR, B offers students from disciplined life sciences backgrounds the opportunity to learn work and acquire experiences through several period internship programs and help continue heir research career and improve research skills. And Scientists and research experts have always been instructing students to become acquainted with these proficiencies.
+"""
+
+
 [[experience]]
-  title = "Vision Care Associate"
-  company = "AmeriCorps<br>Institute for Family Health"
-  company_url = ""
-  location = "Grand Rapids, MI"
-  date_start = "2012-09-01"
-  date_end = "2013-08-01"
-  description = ""
+  title = "Founder, Data Analyst & Management Lead"
+  company = "Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)"
+  company_url = "https://chiralbd.org/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit organization dedicated to scientific research and dissemination using primary and secondary sources and third-party data. Responsibilities include team management, organizing, and designing virtual training on different topics (Linux, Python, R, and Fundamental of Biostatistics for health research).
+  """
+
+[[experience]]
+  title = "Team Member"
+  company = "Bio-Bio-1"
+  company_url = "https://www.facebook.com/biobio.one/"
+  location = "Dhaka, Bangladesh"
+  date_start = "2016-06-01"
+  date_end = ""
+  description = """Bio-Bio-1 is a voluntary, non-profit organization formed by some passionate individuals in late 2008 to learn Bioinformatics for making some sense from the Enigma of Life. It also aims to spread the excitement of Research and Development by infecting like-minded individuals (especially the young ones) through several programs (i.e., weekly Study Circles). I was an active participant in their weekly study circle and learned a lot from them; especially, I learned bioinformatics techniques with the help of Python.
+  """
 +++

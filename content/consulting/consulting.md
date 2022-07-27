@@ -36,4 +36,4 @@ title = "Data and Consulting Services"
  css_style = ""
 +++
 
-As an experienced data scientist and epidemiologist, I can help you with everything from coding to research design. I went into epidemiology because I saw how many talented clinicians there were in community health that needed help with analysis. When the people we serve donate their time and data, quality study design and analysis is the best way to make good on our promises.
+As a confident data analyst and health researcher, I can help you with everything from coding to research design. I went into data analysis because clinicians there were in community health that needed help with analysis. When the people we serve donate their time and data, quality study design and analysis is the best way to make good on our promises.

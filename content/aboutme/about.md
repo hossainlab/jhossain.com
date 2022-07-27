@@ -36,10 +36,16 @@ title = "About me"
  css_style = ""
 +++
 
-I'm a Michigander living in the Los Angeles area. My journey into data science was winding. In my undergraduate degree, I studied medical anthropology and spent most of my time writing poetry and fiction. During that time, I worked as a writing tutor and as a substitute teacher.
+I am Jubayer, recent alumni with Bachelor and Master’s in Microbiology. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.
 
-I started my public health career after the Great Recession. I served in [AmeriCorps](https://www.nationalservice.gov/programs/americorps) for two years, working at federally-qualified health centers in Michigan and New York City. There, I got a taste for working with health data. While living in Brooklyn and working at the [Institute for Family Health](https://www.institute.org/), I completed a Masters of Public Health degree, focusing on epidemiology and biostatistics. 
 
-It was when I moved to Los Angeles to start my Ph.D. that I got particularly interested in R. Now, I spend a lot of my time [contributing to open-source software](https://github.com/malcolmbarrett/), [supporting community R events in Southern California](https://laocr.org/), and working as a data scientist. I love my wife and my cats, as well as many other things, like kung fu, tai chi, yoga, reading and writing poetry, and the cats of other people. I spend a lot of my time at the [Zen Center of New York City](https://zmm.org/zcnyc/) and [Zen Mountain Monastery](https://zmm.org/). 
+Recently, I have completed my internship at the Health System and Population Studies Division, [icddr,b](https://www.icddrb.org/). I did my Bachelor and Masters from the Department of Microbiology at [Jagannath University,Dhaka](https://jnu.ac.bd/dept/portal/web/microbiology). 
 
-The photographs on this website were taken by me unless otherwise noted.
+I am also the founder of [Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)](https://chiralbd.netlify.app/), a non-profit organization dedicated to health research to improve lives in Bangladesh.
+
+At CHIRAL Bangladesh, I lead four programs: [Health Research ToolBox - A Step by Step Guide for Beginners](https://hrt.chiralbd.org/), [The Undergraduate Research Training Program (URTP)](https://urtp.chiralbd.org/), [Scientific Computing for Biologists](https://chiralbd.netlify.app/teaching/programs/), and the other one is [Health Data Analytics](https://chiralbd.netlify.app/teaching/programs/). In addition, I make [content](https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ) on Data Analysis with Python and R.
+
+Python is my primary language for data analysis and machine learning. I also have a basic understanding of R, Julia, SPSS, QGIS, and SQL.
+
+This page highlights my teaching and research projects. Please [reach out](https://allmylinks.com/jhossain28) if you want to collaborate or have questions.
+

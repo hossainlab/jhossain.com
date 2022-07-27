@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Data Analysis"
+title = "Health Research"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "file-code"
+  icon = "drafting-compass"
   icon_pack = "fas"
-  name = "Reports and Analyses"
-  description = "Reproducible reports, data visualizations, and more."
+  name = "Study Design"
+  description = "Epidemiologically sound approaches to observational research."
   
 [[feature]]
-  icon = "robot"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Machine Learning"
-  description = "Machine learning model building for community or internal use."  
+  name = "Statistical Analyses"
+  description = "Modeling, data visualization, and reporting for health research."  
   
 [[feature]]
-  icon = "laptop-code"
+  icon = "desktop"
   icon_pack = "fas"
-  name = "Shiny apps"
-  description = "Interactive apps and dashboards for your data."
+  name = "Study Monitoring"
+  description = "Interactive dashboards and reproducible reports for study monitoring"
 
 +++
