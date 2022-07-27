@@ -1,18 +1,11 @@
 ---
-# Display name
-name: Jubayer Hossain
-
-# Username (this should match the folder name)
-title: Jubayer Hossain
 authors:
-- jubayer
-
-# Is this the primary user of the site?
-superuser: true
-
-bio: I am a Graduate student at the Department of Microbiology at Jagannath University, Dhaka. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research. I am the founder of Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh), a non-profit organization dedicated to health research to improve lives in Bangladesh.
-
-
+- admin
+bio: | 
+  I am Jubayer, recent alumni with Bachelor and Master’s in Microbiology. I am the founder of CHIRAL Bangladesh, a non-profit organization dedicated to health research to improve lives in Bangladesh. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.
+  
+</br><a href="https://github.com/sponsors/hossainlab" class="btn btn-light btn-lg btn-sponsor" ><i class="fas fa-heart" style="padding-right: 10px;"></i>Sponsor me on GitHub</a>
+  
 education:
   courses:
   - course: MS.c in Microbiology
@@ -21,47 +14,57 @@ education:
   - course: BS.c in Microbiology
     institution: Jagannath University, Dhaka
     year: 2019
-
+    
 email: "contact.jubayerhossain@gmail.com"
 interests:
-- Knowledge sharing
-- Public Health
-- Data Analysis
-- Data Visualization
-- Machine Learning
-- GIS and Remote Sensing in Public Health
-- Genomic Epidemiology
-
+- Health Data Science 
+- Machine Learning 
+- Epidemiologic Methods
+- Python and R Programming
+name: Jubayer Hossain
 organizations:
 - name: CHIRAL Bangladesh
-  url: https://chiralbd.org/
-
-role: Founder & Instructor
-
+  url: ""
+role: Founder & Management Lead 
 social:
+
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Jhossain_28
+  link: https://www.twitter.com/JHossain28/
+
+- icon: linkedin
+  icon_pack: fab
+  link:  https://www.linkedin.com/in/jubayer28/
 - icon: github
   icon_pack: fab
   link: https://github.com/hossainlab
+
+- icon: kaggle
+  icon_pack: fab
+  link: https://kaggle.com/jhossain
+
+
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jubayer_Hossain5
+
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-9323-4997
-- icon: linkedin-in
+  link: https://orcid.org/my-orcid?orcid=0000-0001-9323-4997
+  
+- icon: youtube
   icon_pack: fab
-  link: https://www.linkedin.com/in/jubayer28
-- icon: google-scholar
-  icon_pack: ai
-  link:
+  link: https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+superuser: true
+user_groups:
+- Admin
 ---
 
-I am a Graduate student at the Department of Microbiology at [Jagannath University, Dhaka](https://jnu.ac.bd/dept/portal/web/microbiology). I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research.
-
-I am the founder of [Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh)](https://chiralbd.netlify.app/), a non-profit organization dedicated to health research to improve lives in Bangladesh.
-
-At CHIRAL Bangladesh, I lead two programs: [Scientific Computing for Biologists](https://chiralbd.netlify.app/teaching/programs/) and the other one is [Health Data Analytics](https://chiralbd.netlify.app/teaching/programs/). In addition, I make [content](https://www.youtube.com/channel/UCbkJ5pm65Fkcs7MK4YshLsQ) on Data Analysis with Python and R.
-
-Python is my primary language for data analysis and machine learning. I also have a basic understanding of R, Julia, SPSS, QGIS, and SQL.
-
-This page highlights my teaching and research projects. Please [reach out](https://allmylinks.com/jhossain28) if you want to collaborate or have questions.
+I am Jubayer, recent alumni with Bachelor and Master’s in Microbiology. I am the founder of CHIRAL Bangladesh, a non-profit organization dedicated to health research to improve lives in Bangladesh. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research. </br> <a href="https://github.com/sponsors/malcolmbarrett" class="btn btn-light btn-lg btn-sponsor" ><i class="fas fa-heart" style="padding-right: 10px;"></i>Sponsor me on GitHub</a>
