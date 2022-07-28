@@ -12,7 +12,7 @@ authors: ["Jubayer Hossain", "Syeda Tasneem Towhid", "Md. Atik Shariar Sammo", "
 doi: '10.24018/ejbio.2022.3.3.341'
 publishDate: '2022-07-27T21:06:10+06:00'
 publication_types:
-  - '3'
+  - '2'
 publication: ''
 publication_short: ''
 abstract: 'The study aimed to assess perception of the students about antibiotic consumption and the rise of antibiotic resistance with the view to developing an effective community engagement strategy for antimicrobial stewardship. A cross-sectional study was carried out from July 2020 to November 2020. The students from Dhaka City, Bangladesh were approached through social media to complete an online questionnaire containing self-identification data, knowledge about antibiotics, attitudes toward antibiotics, and antibiotic consumption. Descriptive statistics were used to analyze the data.Out of the 472 survey participants, 24.6% of participants identified antibiotic side effects as the worst outcome, while 74.2% were unaware of the antibiotics’ long-term impact on global health. Participants believe antimicrobial stewardship and legal disciplinary action against indiscriminate use of antibiotics are the best strategies for countering the spread of antimicrobial resistance.This study has identified knowledge gaps and misconceptions about antibiotic resistance and prevention. In these situations, academics must play a role in training students about the dangers of antibiotic misuse, gathering public opinion in support of effective policy making, and enforcing guidelines and regulations across the healthcare, pharmaceutical, and agricultural industries to prevent the spread of superbugs.'
