@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "CHIRAL Bangladesh"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "I am Jubayer, recent alumni with Bachelor and Master’s in Microbiology. I am the founder of CHIRAL Bangladesh, a non-profit organization dedicated to health research to improve lives in Bangladesh. I aspire to maximize the quality of life of the human around me by working at the intersection of education, technology, and health research."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".

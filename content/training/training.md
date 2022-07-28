@@ -43,5 +43,5 @@ title = "Training and Workshops"
 +++
 
 
-I am an [RStudio Certified Instructor](https://education.rstudio.com/trainers/), and I love teaching people to use R. These courses are hands-on, using clear, engaging projects. While my approach is particularly geared towards health scientists, you will learn best practices relevant to all aspects of data science. My course materials are also intentionally modular; if the contents of any course don't fit your exact needs, we can easily re-arrange them to better suit your team!
+I am a [Lead Instructor at CHIRAL Bangladesh](https://chiralbd.org/), and I love teaching people to use R and Python. These courses are hands-on, using clear, engaging projects. While my approach is particularly geared towards health scientists, you will learn best practices relevant to all aspects of data science. My course materials are also intentionally modular; if the contents of any course don't fit your exact needs, we can easily re-arrange them to better suit your team!
 
